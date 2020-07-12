@@ -18,7 +18,7 @@
     Beginning in computer security I wish to share my experiences in the different challenges I have realized.
    </p>   
 </div>
-<br/><br/>
+<br/>
 
 ### 🚀 Recent project :
 - [HackTools](https://github.com/LasCC/Hack-Tools) - **Red team** browser extension for web pentesters 
