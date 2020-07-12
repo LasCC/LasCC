@@ -1,13 +1,21 @@
-
-# Ludovic COULON 🇫🇷
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rychillie)](https://github.com/LasCC)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rychillie/)](https://www.linkedin.com/in/ludovic-coulon-b361ba183/)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/rychillie/)](https://www.youtube.com/channel/UCkDvlI9LUuwZ4GKFUbP_Ovg/)
-
-Third-year student in cybersecurity at **ESGI**. 
-
-Beginning in computer security I wish to share **my experiences** in the different challenges I have realized.
+<div align="center">
+  <h1 align="center">Ludovic COULON 🇫🇷</h1>
+    <a href="https://github.com/LasCC">
+      <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
+    </a>
+    <a href="https://www.linkedin.com/in/ludovic-coulon-b361ba183">
+      <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCkDvlI9LUuwZ4GKFUbP_Ovg">
+      <img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000" align="center" />
+    </a>
+   <p align="center">
+    Third-year student in cybersecurity at ESGI
+   </p>
+   <p align="center">
+    Beginning in computer security I wish to share my experiences in the different challenges I have realized.
+   </p>   
+</div>
 
 ### 🚀 Recent project :
 - [HackTools](https://github.com/LasCC/Hack-Tools) - **Red team** browser extension for web pentesters 
