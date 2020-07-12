@@ -5,15 +5,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rychillie/)](https://www.linkedin.com/in/ludovic-coulon-b361ba183/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/rychillie/)](https://www.youtube.com/channel/UCkDvlI9LUuwZ4GKFUbP_Ovg/)
 
-Third-year student in cybersecurity at ESGI. 
+Third-year student in cybersecurity at **ESGI**. 
 
-Beginning in computer security I wish to share my experiences in the different challenges I have realized.
+Beginning in computer security I wish to share **my experiences** in the different challenges I have realized.
 
 ### 🚀 Recent project :
 - [HackTools](https://github.com/LasCC/Hack-Tools) - **Red team** browser extension for web pentesters 
 - [Cyber Security Blog](https://ludovic-cyber-sec.netlify.app/) - Personal blog about **cybersecurity** and **challenges**
-- [Keylogger](https://github.com/LasCC/Keylogger) - **Keylogger** + with sending mail wrote with **python** 
-- [HomeDelivery](https://github.com/LasCC/HomeDelivery) - **Web application** to help seniors or people with disabilities/illness to apply with their **shopping list.**
+- [Keylogger](https://github.com/LasCC/Keylogger) - **Keylogger** + mail sender wrote with **python** 
+- [HomeDelivery](https://github.com/LasCC/HomeDelivery) - **Web application** to help seniors or people with disabilities/illness to apply with their **shopping list.** *(School project for the COVID-19)*
 - [Creative blog](https://github.com/LasCC/Creative-blog) - **Complete blog** build with **PHP**
 
 
