@@ -35,4 +35,4 @@
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=lascc&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=fff&bg_color=151515" alt="githubprofilecard" />
+<img src='https://github-readme-stats.vercel.app/api?username=lascc&hide=["issues"]&show_icons=true' alt="githubprofilecard" />
