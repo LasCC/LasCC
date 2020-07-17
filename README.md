@@ -30,8 +30,8 @@
 
 
 ### 👀 Profile on cybersecurity websites :
-- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 165 🏆 - 4th french on the website 🇫🇷
-- [Root-Me](https://www.root-me.org/zeeph) -  795 points 🏆
+- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 159 🏆 - 4th french on the website 🇫🇷
+- [Root-Me](https://www.root-me.org/zeeph) -  810 points 🏆
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
 
 
