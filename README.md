@@ -16,7 +16,10 @@
    
    <p align="center">
     Beginning in computer security I wish to share my experiences in the different challenges I have realized.
-   </p>   
+   </p>  
+   
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LasCC&layout=compact&hide=css' alt="githubprofilecard" />
+
 </div>
 <br/>
 
@@ -30,9 +33,8 @@
 
 
 ### 👀 Profile on cybersecurity websites :
-- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 159 🏆 - 4th french on the website 🇫🇷
+- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 151 🏆 - 4th french on the website 🇫🇷
 - [Root-Me](https://www.root-me.org/zeeph) -  810 points 🏆
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
-
 
 <img src='https://github-readme-stats.vercel.app/api?username=lascc&hide=["issues"]&show_icons=true' alt="githubprofilecard" />
