@@ -19,7 +19,7 @@
     Beginning in computer security I wish to share my experiences in the different challenges I have realized.
    </p>  
    
-   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LasCC&layout=compact&hide=css,html' alt="githubprofilecard" />
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LasCC&layout=compact&hide=css' alt="githubprofilecard" />
 
 </div>
 <br/>
