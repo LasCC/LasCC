@@ -29,6 +29,7 @@
 - [Cyber Security Blog](https://ludovic-cyber-sec.netlify.app/) - Personal blog about **cybersecurity** and **challenges**
 - [Keylogger](https://github.com/LasCC/Keylogger) - **Keylogger** + mail sender wrote with **python** 
 - [HomeDelivery](https://github.com/LasCC/HomeDelivery) - **Web application** to help seniors or people with disabilities/illness to apply with their **shopping list.** *(School project for the COVID-19)*
+- [Creative Resume](https://github.com/LasCC/Creative-Resume) - Creative Resume is a free to use editor to **create resume online.**
 - [Creative blog](https://github.com/LasCC/Creative-blog) - **Complete blog** build with **PHP**
 
 
