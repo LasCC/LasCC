@@ -38,6 +38,3 @@
 - [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 74 🏆 - 4th french on the website 🇫🇷
 - [Root-Me](https://www.root-me.org/zeeph) -  1020 points 🏆
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
-
-<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/025eb4b9803892186c371650e063bcb0/static_badge_dark.png" alt="RootMeProfile" />
-<img src="https://i.imgur.com/AF61WSd.png" alt="TryhackMeProfile">
