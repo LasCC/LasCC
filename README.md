@@ -19,8 +19,10 @@
     Beginning in computer security I wish to share my experiences in the different challenges I have realized.
    </p>  
    
-   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LasCC&layout=compact&hide=css' alt="githubprofilecard" />
-
+   <a href="https://ludovic-cyber-sec.netlify.app/">
+    <img src='https://media3.giphy.com/media/fdHUCuC0SKPM737byQ/giphy.gif' alt="githubprofilecard" />
+   </a>
+   
 </div>
 <br/>
 
