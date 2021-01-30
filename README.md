@@ -3,7 +3,7 @@
     <a href="https://github.com/LasCC">
       <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
     </a>
-    <a href="https://www.linkedin.com/in/ludovic-coulon-b361ba183">
+    <a href="https://www.linkedin.com/in/ludovic-coulon">
       <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" />
     </a>
     <a href="https://www.youtube.com/channel/UCkDvlI9LUuwZ4GKFUbP_Ovg">
@@ -33,10 +33,11 @@
 - [HomeDelivery](https://github.com/LasCC/HomeDelivery) - **Web application** to help seniors or people with disabilities/illness to apply with their **shopping list.** *(School project for the COVID-19)*
 - [Creative Resume](https://github.com/LasCC/Creative-Resume) - Creative Resume is a free to use editor to **create resume online.**
 - [Creative blog](https://github.com/LasCC/Creative-blog) - **Complete blog** build with **PHP**
+- [QR-Generator](https://github.com/LasCC/QR-Generator) - Web application to generate QR codes
 
 
 
 ### 👀 Profile on cybersecurity websites :
-- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 74 🏆 - 4th french on the website 🇫🇷
-- [Root-Me](https://www.root-me.org/zeeph) -  1020 points 🏆
+- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 96 🏆 - 4th french on the website 🇫🇷
+- [Root-Me](https://www.root-me.org/zeeph) -  1040 points 🏆
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
