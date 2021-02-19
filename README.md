@@ -12,7 +12,7 @@
       <img alt="ProfileViews" src="https://gpvc.arturio.dev/LasCC" align="center" />
    <br/><br/>
    <p align="center">
-    Third-year student in cybersecurity at ESGI
+    A third-year student in cybersecurity at ESGI
    </p>
    
    <p align="center">
@@ -30,8 +30,8 @@
 - [HackTools](https://github.com/LasCC/Hack-Tools) - **Red team** browser extension for web pentesters 
 - [Cyber Security Blog](https://ludovic-cyber-sec.netlify.app/) - Personal blog about **cybersecurity** and **challenges**
 - [Keylogger](https://github.com/LasCC/Keylogger) - **Keylogger** + mail sender wrote with **python** 
-- [HomeDelivery](https://github.com/LasCC/HomeDelivery) - **Web application** to help seniors or people with disabilities/illness to apply with their **shopping list.** *(School project for the COVID-19)*
-- [Creative Resume](https://github.com/LasCC/Creative-Resume) - Creative Resume is a free to use editor to **create resume online.**
+- [HomeDelivery](https://github.com/LasCC/HomeDelivery) - **Web application** to help seniors or people with disabilities/illness to apply with their **shopping list.** *(A school project for the COVID-19)*
+- [Creative Resume](https://github.com/LasCC/Creative-Resume) - Creative Resume is a free-to-use editor to **create resumes online.**
 - [Creative blog](https://github.com/LasCC/Creative-blog) - **Complete blog** build with **PHP**
 - [QR-Generator](https://github.com/LasCC/QR-Generator) - Web application to generate QR codes
 
