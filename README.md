@@ -43,4 +43,4 @@
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
 
 ### 📝 Other
-- [Resume (French Only)](https://docdro.id/jGXCoTn)
+- [Resume (French Only)](https://docdro.id/rYv5Up6)
