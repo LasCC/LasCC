@@ -15,10 +15,6 @@
     A third-year student in cybersecurity at ESGI
    </p>
    
-   <p align="center">
-    Beginning in computer security I wish to share my experiences in the different challenges I have realized.
-   </p>  
-   
    <a href="https://ludovic-cyber-sec.netlify.app/">
     <img src='https://media0.giphy.com/media/casHNDteRc4x10C8p1/giphy.gif' alt="githubprofilecard" />
    </a>
@@ -38,7 +34,7 @@
 
 
 ### 👀 Profile on cybersecurity websites :
-- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 78 🏆 - 4th french on the website 🇫🇷
+- [TryHackMe](https://tryhackme.com/p/boperXD) - Rank 78 🏆 - 3th french on the website 🇫🇷
 - [Root-Me](https://www.root-me.org/zeeph) -  1040 points 🏆
 - [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
 
