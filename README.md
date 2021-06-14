@@ -9,7 +9,6 @@
     <a href="https://www.youtube.com/channel/UCkDvlI9LUuwZ4GKFUbP_Ovg">
       <img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FFFFFF&logo=youtube&logoColor=FF0000" align="center" />
     </a>
-      <img alt="ProfileViews" src="https://gpvc.arturio.dev/LasCC" align="center" />
    <br/><br/>
    <p align="center">
     A third-year student in cybersecurity at ESGI
