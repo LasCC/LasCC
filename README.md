@@ -11,7 +11,7 @@
     </a>
    <br/><br/>
    <p align="center">
-    A third-year student in cybersecurity at ESGI
+    Student in cybersecurity at ESGI
    </p>
    
    <a href="https://ludovic-cyber-sec.netlify.app/">
@@ -33,6 +33,6 @@
 
 
 ### 👀 Profile on cybersecurity websites :
-- [TryHackMe](https://tryhackme.com/p/lasCC) - Rank 78 🏆 - 3th french on the website 🇫🇷
-- [Root-Me](https://www.root-me.org/zeeph) -  1040 points 🏆
-- [HTB](https://www.hackthebox.eu/profile/157489) - New to the platform 🙄
+- [TryHackMe](https://tryhackme.com/p/lasCC)
+- [Root-Me](https://www.root-me.org/zeeph) 
+- [HTB](https://www.hackthebox.eu/profile/157489)
