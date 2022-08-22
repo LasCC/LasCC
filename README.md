@@ -14,7 +14,7 @@
     Student in cybersecurity at ESGI
    </p>
    
-   <a href="https://ludovic-cyber-sec.netlify.app/">
+   <a href="http://ludovic-coulon.com//">
     <img src='https://media0.giphy.com/media/casHNDteRc4x10C8p1/giphy.gif' alt="githubprofilecard" />
    </a>
    
