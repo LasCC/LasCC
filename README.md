@@ -21,7 +21,8 @@
 </div>
 <br/>
 
-### 🚀 Recent project :
+### ⏳ Recent project :
+
 - [HackTools](https://github.com/LasCC/Hack-Tools) - **Red team** browser extension for web pentesters 
 - [Cyber Security Blog](http://ludovic-coulon.com/) - Personal blog about **cybersecurity** and **challenges**
 - [Keylogger](https://github.com/LasCC/Keylogger) - **Keylogger** + mail sender wrote with **python** 
@@ -33,5 +34,4 @@
 
 ### 👀 Profile on cybersecurity websites :
 - [TryHackMe](https://tryhackme.com/p/lasCC)
-- [Root-Me](https://www.root-me.org/zeeph) 
-- [HTB](https://www.hackthebox.eu/profile/157489)
+- [Root-Me](https://www.root-me.org/zeeph)
