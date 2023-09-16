@@ -11,7 +11,7 @@
     </a>
    <br/><br/>
    <p align="center">
-    Student in cybersecurity at ESGI
+    DFIR Analyst
    </p>
    
    <a href="http://ludovic-coulon.com//">
