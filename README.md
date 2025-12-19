@@ -11,6 +11,7 @@
 
 ### ⏳ Recent project :
 
-- [HackTools](https://github.com/LasCC/Hack-Tools) - **Red team** browser extension for web pentesters 
+- [DFIRHub](https://dfirhub.com/) - Search DFIR artifacts **fast**
+- [HackTools](https://github.com/LasCC/Hack-Tools) - Browser extension for web pentesters 
 - [Penflow](https://github.com/rb-x/penflow) - Turn complex security assessments into clear, visual workflows. Track, document, and collaborate all in one place
 - [Cyber Security Blog](http://ludovic-coulon.com/) - Personal blog about **cybersecurity** and **challenges**
