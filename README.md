@@ -11,7 +11,7 @@
 
 ### ⏳ Recent project :
 
-- [DFIRHub](https://github.com/LasCC/DFIRHub) - Search DFIR artifacts **fast**
+- [DFIRHub](https://github.com/LasCC/DFIRHub) - Find forensic artifacts, **fast**
 - [HackTools](https://github.com/LasCC/Hack-Tools) - Browser extension for web pentesters 
 - [Pwnflow](https://github.com/rb-x/pwnflow) - Turn complex security assessments into clear, visual workflows. Track, document, and collaborate all in one place
 - [Cyber Security Blog](http://ludovic-coulon.com/) - Personal blog about **cybersecurity** and **challenges**
